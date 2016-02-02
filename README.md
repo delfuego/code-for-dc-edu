@@ -1,6 +1,8 @@
 Code for DC Education Project
 ===============
 
+BLAH BLAH
+
 This is the repository for the Code for DC Education Project.
 
 The site is (for now at) http://harlanh.github.io/code-for-dc-edu/
